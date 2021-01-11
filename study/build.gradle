@@ -1,0 +1,4 @@
+apply from: '../moduleBase.gradle'
+android {
+    resourcePrefix "study_"
+}
