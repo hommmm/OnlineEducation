@@ -8,4 +8,4 @@ import android.app.Application
  * @author WangQingYi
  * @since  2021/1/8
  */
-class studyApplication : Application() {}
+class StudyApplication : Application() {}
